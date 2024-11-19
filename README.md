@@ -9,9 +9,3 @@ ETL overview and data governance tool
 ## DuckDB DB Schema
 
 ![image](https://github.com/8toz/BigDataProject_IMDB/assets/71278495/d8f3df5a-b14e-4873-aef4-b1b16104fca9)
-
-## The dashboard
-
-![image](https://github.com/8toz/BigDataProject_IMDB/assets/71278495/4baa82a3-5ed2-4fcc-af18-50627d7cc6d6)
-
-
